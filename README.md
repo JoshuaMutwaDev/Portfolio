@@ -6,7 +6,7 @@ Built with **HTML, CSS, and JavaScript**.
 ---
 
 ## 🚀 Live Demo  
-👉 [View Portfolio](joshuamutwa-portfolio.netlify.app)
+👉 [View Portfolio](https://joshuamutwa-portfolio.netlify.app)
 
 ---
 
